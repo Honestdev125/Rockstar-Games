@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎮 Rockstar Games Universe</h1>
   <p>Explore, play, and immerse yourself — A cinematic web experience inspired by Rockstar's legendary games.</p>
-  <a href="https://hamiparsa.github.io/Rockstar-Games/">
+  <a href="https://honestdev125.github.io/Rockstar-Games/">
     <img src="https://img.shields.io/badge/View_Live_Project-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -91,7 +91,7 @@ This project demonstrates professional-level front-end architecture, creative UI
 
 ## 👨‍💻 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Front-End Developer | Crafting cinematic and interactive web experiences  
 
 ---
